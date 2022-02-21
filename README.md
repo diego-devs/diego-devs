@@ -11,7 +11,11 @@
 ```
 diego =  
 {
-
+  age = 25;
+  livingIn = Mexico.MexicoCity;
+  currentOccupation = FreelanceDeveloper; 
+  interests = {".NET", "C#", "Javascript", "Music" };
+  
 };
 ```
 
