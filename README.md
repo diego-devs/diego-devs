@@ -5,12 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently looking for job!  
+- 🌱 I’m currently learning fullstack developer bootcamp at Microsoft Launch X
+- 👯 I’m looking to collaborate on Object Oriented Programming projects. 
+
+- 💬 Ask me about .NET, C#, Javascript and music.
+
+- ⚡ Fun fact: I'm also a musician 🤘
+
+```
+diego =  
+{
+
+};
+```
+
