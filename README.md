@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact: I'm also a musician 🤘
 
-```
+```json
 const Diego = {
   code: ['C#','Javascript','HTML', 'CSS', 'Python'], 
   tools: ['.NET', Node, 'Visual Studio 2019', 'VSCode', 'ASP.NET 6', 'Unity'],
