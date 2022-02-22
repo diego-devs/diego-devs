@@ -1,12 +1,11 @@
-### Hi! 👋
+### Hi! 👋 
+![dd](https://user-images.githubusercontent.com/56505625/155052684-3b2d7b4e-c73d-4811-bcbb-63d8cf16d5c0.png | width=60)
 
 - 🔭 I’m currently looking for job!  
 - 🌱 Currently learning fullstack developer bootcamp at Microsoft Launch X
 - 👯 I’m looking to collaborate on .NET and related technology projects! 
 
 - ⚡ Fun fact: I'm also a musician 🤘
-
-![dd](https://user-images.githubusercontent.com/56505625/155052684-3b2d7b4e-c73d-4811-bcbb-63d8cf16d5c0.png)
 
 ```js
 const Diego = {
