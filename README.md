@@ -6,6 +6,8 @@
 
 - ⚡ Fun fact: I'm also a musician 🤘
 
+![dd](https://user-images.githubusercontent.com/56505625/155052684-3b2d7b4e-c73d-4811-bcbb-63d8cf16d5c0.png)
+
 ```js
 const Diego = {
   code: ['C#','Javascript','HTML', 'CSS', 'Python'], 
