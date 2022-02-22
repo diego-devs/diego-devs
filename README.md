@@ -1,9 +1,4 @@
-### Hi there 👋
-![giphy](https://user-images.githubusercontent.com/56505625/155052250-b915b223-6f42-4de5-8b41-1115ae25f580.gif)
-
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/diego-devs" aria-label="Follow @diego-devs on GitHub">Follow @diego-devs</a>
+### Hi! 👋
 
 - 🔭 I’m currently looking for job!  
 - 🌱 Currently learning fullstack developer bootcamp at Microsoft Launch X
