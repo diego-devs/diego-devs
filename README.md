@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/diego-devs" aria-label="Follow @diego-devs on GitHub">Follow @diego-devs</a>
+
 - 🔭 I’m currently looking for job!  
 - 🌱 Currently learning fullstack developer bootcamp at Microsoft Launch X
 - 👯 I’m looking to collaborate on .NET and related technology projects! 
@@ -14,7 +18,7 @@ const Diego = {
   techCommunities: {
                         fullstack-bootcamp: 'Launch X de Innovaccion'
                       },
- challenge: 'I'm looking forward to get my first job as a developer'
+  challenge: 'I m looking forward to get my first job as a developer'
 }
 ```
 
