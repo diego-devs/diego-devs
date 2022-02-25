@@ -10,8 +10,8 @@
 ```js
 const Diego = {
   code: ['C#','Javascript','HTML', 'CSS', 'Python'], 
-  tools: ['.NET', Node, 'Visual Studio 2019', 'VSCode', 'ASP.NET 6', 'Unity'],
-  areas: ['IoT', 'Web dev', 'Videogames', 'Data'],
+  tools: ['.NET6', 'ASP.NET', 'Entity Framework', 'SQL', 'NodeJs', 'Visual Studio 2019', 'VSCode', 'Unity'],
+  areas: ['IoT', 'Web development', 'Videogames', 'Data'],
   techCommunities: {
                         fullstack-bootcamp: 'Launch X de Innovaccion'
                       },
