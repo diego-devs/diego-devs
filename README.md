@@ -1,8 +1,7 @@
 ### Hi! 👋 
 
-- 🔭 I’m currently looking for job!  
 - .NET 6 development
-- 🌱 Currently learning fullstack developer bootcamp at Microsoft Launch X
+- 🌱 Currently learning at Microsoft Launch X
 - 👯 I’m looking to collaborate on .NET, javascript, web and related technology projects! 
 
 - ⚡ Fun fact: I'm also a musician 🤘
