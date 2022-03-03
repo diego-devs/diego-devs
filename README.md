@@ -1,7 +1,7 @@
 ### Hi! 👋 
 
 - .NET 6 development
-- 🌱 Currently learning at Microsoft Launch X
+- 🌱 Currently in a bootcamp at Microsoft Launch X
 - 👯 I’m looking to collaborate on .NET, javascript, web and related technology projects! 
 
 - ⚡ Fun fact: I'm also a musician 🤘
