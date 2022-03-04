@@ -1,6 +1,6 @@
 ### Hola!
 
-- .desarrollo con .NET 6
+- Desarrollo con .NET 6 y C# 10 ! 
 - :telescope: Buscando trabajo de largo plazo como .NET junior. 
 - 🌱 Actualmente aprendiendo en fullstack bootcamp Launch X by Innovacción Virtual - Microsoft.
 - 👯 Buscando colaborar en proyectos .NET y proyectos web.  
