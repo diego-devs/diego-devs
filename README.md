@@ -30,8 +30,6 @@ const Diego = {
   },
   certifications: ['C# Basic Certificate - by HackerRank', 'Github para desarrolladores - by LinkedInLearning'],
 }
-  
-}
 ```
 
 
