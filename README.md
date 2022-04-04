@@ -1,7 +1,7 @@
 ### Diego Díaz
 
 - Desarrollo con .NET 6 y C# 10 ! 
-- :telescope: Buscando trabajo de largo plazo como desarrollador .NET junior. 
+- :computer: Trabajando desde casa como developer junior para Global Hitss
 - 🌱 Aprendiendo en fullstack bootcamp Launch X by Innovacción Virtual - Microsoft.
 - 👯 Buscando colaborar en proyectos .NET y proyectos web.  
 
