@@ -22,7 +22,7 @@ const Diego = {
   code: ['C#', 'Javascript', 'Python' ],
   tools: ['.NET6', 'ASP.NET', 'WPF', 'EFCore', 'SQL', 'VSCode', 'VS2022', 'Unity'],
   areas: ['Web', 'Desktop', 'Data', 'Videogames'],
-  challenge: "I'm on my way to get my first full time job as a .NET junior developer. ",
+  challenge: "Learning and growth in my junior dev job",
   goals: ['Become a senior developer before 2026'],
   courses: {
     bootcamp: 'Launch X by Innovaccion Virtual - Microsoft web developer bootcamp',
