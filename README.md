@@ -23,7 +23,7 @@ const Diego = {
   tools: ['.NET6', 'ASP.NET', 'WPF', 'EFCore', 'SQL', 'VSCode', 'VS2022', 'Unity'],
   areas: ['Web', 'Desktop', 'Data', 'Videogames'],
   challenge: "Learning and growth in my junior dev job",
-  goals: ['Become a senior developer before 2026'],
+  goals: ['On the road to become full stack mid junior developer'],
   courses: {
     bootcamp: 'Launch X by Innovaccion Virtual - Microsoft web developer bootcamp',
     linkedinLearning: ['ASP.NET core esencial','Github para programadores', '.NET6 esencial', 'LINQ con C#'],
