@@ -11,7 +11,7 @@
 const Diego = {
   labels: ['self-taught developer', 'programmer', 'musician', 'video editor'],
   age : 25,
-  job: 'Freelancer',
+  job: 'Programmer at Global Hitss USA division in Mexico',
   email: 'd_diazmendoza@hotmail.com',
   phone: '+52 5525228477',
   location: {
