@@ -1,7 +1,7 @@
 ### Diego Díaz
 
 - Desarrollo con .NET 6 y C# 10 ! 
-- :computer: Trabajando desde casa como developer junior para Global Hitss
+- :computer: Trabajando desde casa como programador junior para [Global Hitss](https://globalhitss.com/)
 - 🌱 Aprendiendo en fullstack bootcamp Launch X by Innovacción Virtual - Microsoft.
 - 👯 Buscando colaborar en proyectos .NET y proyectos web.  
 
