@@ -1,4 +1,4 @@
-### Diego Díaz
+### Diego Díaz Mendoza
 
 - Desarrollo con .NET 6 y C# 10 ! 
 - :computer: Trabajando desde casa como programador junior para [Global Hitss](https://globalhitss.com/)
