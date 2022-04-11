@@ -9,9 +9,9 @@
 
 ```js
 const Diego = {
-  labels: ['self-taught developer', 'programmer', 'musician', 'video editor'],
+  labels: ['programmer', 'developer', 'musician', 'video editor'],
   age : 25,
-  job: 'Programmer at Global Hitss USA division in Mexico',
+  job: 'Junior Programmer at Global Hitss USA division in Mexico',
   email: 'd_diazmendoza@hotmail.com',
   phone: '+52 5525228477',
   location: {
@@ -19,17 +19,18 @@ const Diego = {
     city: 'Ciudad de México'
   },
   skills: ['Self-taught', 'Fast learner', 'Adaptable', 'Creative'],
-  code: ['C#', 'Javascript', 'Python' ],
-  tools: ['.NET6', 'ASP.NET', 'WPF', 'EFCore', 'SQL', 'VSCode', 'VS2022', 'Unity'],
-  areas: ['Web', 'Desktop', 'Data', 'Videogames'],
-  challenge: "Learning and growth in my junior dev job",
-  goals: ['On the road to become full stack mid junior developer'],
+  code: ['C#', 'Javascript', 'Python', 'SQL', 'HTML', 'CSS'],
+  tools: ['.NET 7', 'ASP.NET Core', 'Entity Framework Core', 'LINQ'],
+  software: ['VSCode', 'Visual Studio 2022', 'Postman', 'Unity', 'Adobe: Pr, Ae, Ps, Ai' ],
+  areas: ['Web', 'Data', 'Videogames'],
+  challenges: ['Grow and learn in my current jr dev job', '.NET MAUI']
+  goals: ['Become full stack mid junior developer'],
   courses: {
     bootcamp: 'Launch X by Innovaccion Virtual - Microsoft web developer bootcamp',
     linkedinLearning: ['ASP.NET core esencial','Github para programadores', '.NET6 esencial', 'LINQ con C#'],
     udemy: ['C# Complete developer course', 'Unity 2D complete course'],
   },
-  certifications: ['C# Basic Certificate - by HackerRank', 'Github para desarrolladores - by LinkedInLearning'],
+  certifications: ['C# Basic Certificate - by HackerRank', '.NET CORE Esencial - by LinkedInLearning','Github para desarrolladores - by LinkedInLearning'],
 }
 ```
 
