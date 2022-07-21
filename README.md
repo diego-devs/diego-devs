@@ -1,9 +1,9 @@
 ### Diego Díaz Mendoza
 
-- Desarrollo con .NET 6 y C# 10 ! 
-- :computer: Trabajando desde casa como programador junior para [Global Hitss](https://globalhitss.com/)
-- 🌱 Aprendiendo en fullstack bootcamp Launch X by Innovacción Virtual - Microsoft.
-- 👯 Buscando colaborar en proyectos .NET y proyectos web.  
+- Desarrollador web
+- :computer: Trabajando desde casa para [Global Hitss](https://globalhitss.com/)
+- 🌱 Actualmente aprendiendo mucho de SQL, .NET y C#
+- 👯 Buscando colaborar en proyectos web
 
 
 
