@@ -1,6 +1,6 @@
 ### Diego Díaz Mendoza
 
-- Desarrollador web
+- Programador
 - :computer: Trabajando desde casa para [Global Hitss](https://globalhitss.com/)
 - 🌱 Trabajando con SQL, C# y .NET
 - :zap: Freelance en desarrollo web
