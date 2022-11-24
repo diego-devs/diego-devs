@@ -13,7 +13,6 @@ const Diego = {
   age : 25,
   job: 'Junior programmer at Global Hitss USA division in Mexico',
   email: 'd_diazmendoza@hotmail.com',
-  phone: '+52 5525228477',
   location: {
     country: 'México',
     city: 'Ciudad de México'
@@ -30,7 +29,7 @@ const Diego = {
     linkedinLearning: ['ASP.NET core esencial','Github para programadores', '.NET6 esencial', 'LINQ con C#'],
     udemy: ['C# Complete developer course', 'Unity 2D complete course'],
   },
-  certifications: ['C# Basic Certificate - by HackerRank', '.NET CORE Esencial - by LinkedInLearning','Github para desarrolladores - by LinkedInLearning'],
+  certifications: ['C# Basic Certificate - by HackerRank','Github para desarrolladores - by LinkedInLearning'],
 }
 ```
 
