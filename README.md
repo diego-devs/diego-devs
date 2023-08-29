@@ -1,7 +1,7 @@
 ### Diego Díaz Mendoza
 
 - Programador
-- :computer: Trabajando desde casa para [Global Hitss](https://globalhitss.com/)
+- :computer: Trabajando home office para [Global Hitss](https://globalhitss.com/)
 - 🌱 Trabajando con .NET Framework, .NET Core (7), SQL, Azure y OpenAI
 - :zap: Freelance en desarrollo de software. 
 - 👯 Buscando colaborar en proyectos relacionados a la IA, OpenAI, GPT-3, Dall-E, Azure Cognitive Services, etc. 
@@ -10,9 +10,9 @@
 
 ```js
 const Diego = {
-  labels: ['programmer', 'developer', 'musician', 'video editor'],
+  labels: ['developer', 'musician', 'video editor'],
   age : 26,
-  job: 'Junior developer at Global Hitss USA division in Mexico',
+  job: 'Developer at Global Hitss USA division in Mexico',
   email: 'd_diazmendoza@hotmail.com',
   location: {
     country: 'México',
@@ -24,8 +24,9 @@ const Diego = {
   software: ['VSCode', 'Visual Studio 2022', 'Postman', 'Unity', 'Azure', 'AWS'],
   areas: ['Web', 'Data', 'Videogames', 'Development with AI'],
   challenges: ['Mid junior by 2023', '.NET MAUI mobile development', 'AI development']
-  goals: ['Become a full-stack Senior software developer'],
+  goals: ['full-stack Senior software developer'],
   courses: {
+    Qualizens - DevOps Certified Tester - Foundation level
     bootcamp: 'Launch X by Innovaccion Virtual - Microsoft web developer bootcamp',
     linkedinLearning: ['ASP.NET core esencial','Github para programadores', '.NET6 esencial', 'LINQ con C#'],
     udemy: ['C# Complete developer course', 'Unity 2D complete course'],
