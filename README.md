@@ -22,10 +22,10 @@ const Diego = {
   tools: ['.NET 7', 'ASP.NET Core', 'Entity Framework Core', '.NET MAUI' ],
   software: ['VSCode', 'Visual Studio 2022', 'Postman', 'Unity', 'Azure', 'AWS'],
   areas: ['Web', 'Data', 'Videogames', 'Development with AI'],
-  challenges: ['Mid junior by 2023', '.NET MAUI mobile development', 'AI development']
+  challenges: ['Mid junior by 2023', '.NET MAUI mobile development', 'AI development'],
   goals: ['full-stack Senior software developer'],
   courses: {
-    devops: 'Qualizens - DevOps Certified Tester Course - Foundation level'
+    devops: 'Qualizens - DevOps Certified Tester Course - Foundation level',
     bootcamp: 'Launch X by Innovaccion Virtual - Microsoft web developer bootcamp',
     linkedinLearning: ['ASP.NET core esencial','Github para programadores', '.NET6 esencial', 'LINQ con C#'],
     udemy: ['C# Complete developer course', 'Unity 2D complete course'],
