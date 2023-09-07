@@ -1,11 +1,12 @@
 ### Diego Díaz Mendoza
 
 - Developer
-- :computer: Trabajando home office for [Global Hitss](https://globalhitss.com/)
+- :computer: Trabajando home office para [Global Hitss]. (https://globalhitss.com/)
 - 🌱 C#, .NET, .NET Framework, SQL Server, GIT, DevOps, Javascript. 
 - :zap: Freelance en desarrollo web. 
 - 👯 Buscando colaborar en proyectos relacionados. 
 - 📖 Aprendiendo DevOps y .NET MAUI.
+- :white_check_mark: Inglés alrededor de C1
 
 ```js
 const Diego = {
