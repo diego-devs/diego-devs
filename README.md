@@ -17,12 +17,11 @@ const Diego = {
     country: 'México',
     city: 'Ciudad de México'
   },
-  skills: ['Self-taught', 'Fast learner', 'Adaptable', 'Creative', 'DevOps'],
+  skills: ['Fast learner', 'Self-taught', 'Adaptable', 'Creative', 'DevOps practices'],
   code: ['C#', 'Javascript', 'SQL', 'HTML', 'CSS'],
-  tools: ['.NET 7', 'ASP.NET Core', 'Entity Framework Core', '.NET MAUI' ],
-  software: ['VSCode', 'Visual Studio 2022', 'Postman', 'Unity', 'Azure', 'AWS'],
-  areas: ['Web', 'Data', 'Videogames', 'Development with AI'],
-  challenges: ['Mid junior by 2023', '.NET MAUI mobile development', 'AI development'],
+  tools: ['.NET', 'DevOps','ASP.NET', 'Entity Framework Core', '.NET MAUI', 'Blazor'],
+  software: ['VSCode', 'Visual Studio 2022', 'Git', 'Jenkins', 'Docker', 'Azure', 'AWS'],
+  areas: ['.NET', 'DevOps','ASP.NET', ''],
   goals: ['full-stack Senior software developer'],
   courses: {
     devops: 'Qualizens - DevOps Certified Tester Course - Foundation level',
