@@ -11,7 +11,7 @@
 ```js
 const Diego = {
   labels: ['developer', 'musician', 'video editor'],
-  age : 26,
+  age : 27,
   job: 'Developer at Global Hitss USA division in Mexico',
   email: 'd_diazmendoza@hotmail.com',
   location: {
