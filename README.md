@@ -10,9 +10,10 @@
 
 ```js
 const Diego = {
-  labels: ['developer', 'musician', 'video editor'],
+  labels: ['software developer', 'musician', 'content creator'],
   age : 27,
-  job: '.NET Developer at Global Hitss',
+  nationality: 'mexican',
+  occupancy: '.NET Developer',
   email: 'd_diazmendoza@hotmail.com',
   location: {
     country: 'México',
@@ -24,16 +25,17 @@ const Diego = {
   softwareTools: ['VSCode', 'Visual Studio 2022', 'Git', 'Jenkins', 'Docker', 'Azure', 'AWS'],
   areas: ['Web Development', 'API Development', 'Desktop Development'],
   goals: ['full-stack Senior software developer'],
+  interestedIn: ['Software Development', 'Artificial Intelligence', 'Technology', 'Music', 'History', 'Videogames'],
   experience: {
-  currentJob: '.NET Developer',
-  timeInJob: '2 years',
-  totalExperience: '4 years'
-  }
+    currentJob: '.NET Developer',
+    timeInJob: '2 years',
+    totalExperience: '4 years'
+  },
   courses: {
     devops: 'Qualizens - DevOps Certified Tester Course - Foundation level',
     bootcamp: 'Launch X by Innovaccion Virtual - Microsoft web developer bootcamp',
     linkedinLearning: ['ASP.NET core esencial','Github para programadores', '.NET6 esencial', 'LINQ con C#'],
-    udemy: ['C# Complete developer course', 'Unity 2D complete course'],
+    udemy: ['Csharp Complete developer course', 'Unity 2D complete course'],
   },
   certifications: ['C# Basic Certificate - by HackerRank','Github para desarrolladores - by LinkedInLearning'],
 }
