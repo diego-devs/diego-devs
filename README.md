@@ -1,29 +1,34 @@
 ### Diego Díaz Mendoza
 
-- Developer
+- Developer  
 - :computer: Trabajando home office para [Global Hitss]. (https://globalhitss.com/)
-- 🌱 C#, .NET, .NET Framework, SQL Server, GIT, DevOps, Javascript. 
-- :zap: Freelance en desarrollo web. 
-- 👯 Buscando colaborar en proyectos relacionados. 
+- 🌱 C#, .NET, .NET Framework, SQL Server, GIT, DevOps, Javascript, Blazor, Angular. 
+- :zap: También desarrollador web freelance. 
+- 👯 Buscando colaborar en proyectos relacionados con .NET y desarrollo web o móvil.  
 - 📖 Aprendiendo DevOps y .NET MAUI.
-- :white_check_mark: Inglés alrededor de C1
+- :white_check_mark: Inglés avanzado / bilingüe C1
 
 ```js
 const Diego = {
   labels: ['developer', 'musician', 'video editor'],
   age : 27,
-  job: 'Developer at Global Hitss USA division in Mexico',
+  job: '.NET Developer at Global Hitss',
   email: 'd_diazmendoza@hotmail.com',
   location: {
     country: 'México',
     city: 'Ciudad de México'
   },
-  skills: ['Fast learner', 'Self-taught', 'Adaptable', 'Creative', 'DevOps practices'],
+  skills: ['Fast learner', 'Self-taught', 'Adaptable', 'Creative', 'DevOps Culture'],
   code: ['C#', 'Javascript', 'SQL', 'HTML', 'CSS'],
-  tools: ['.NET', 'DevOps','ASP.NET', 'Entity Framework Core', '.NET MAUI', 'Blazor'],
-  software: ['VSCode', 'Visual Studio 2022', 'Git', 'Jenkins', 'Docker', 'Azure', 'AWS'],
-  areas: ['.NET', 'DevOps','ASP.NET', ''],
+  frameworkTools: ['.NET','ASP.NET Core', 'Entity Framework Core', '.NET MAUI', 'Blazor', 'Razor Pages', 'WPF', 'MAUI'],
+  softwareTools: ['VSCode', 'Visual Studio 2022', 'Git', 'Jenkins', 'Docker', 'Azure', 'AWS'],
+  areas: ['Web Development', 'API Development', 'Desktop Development'],
   goals: ['full-stack Senior software developer'],
+  experience: {
+  currentJob: '.NET Developer',
+  timeInJob: '2 years',
+  totalExperience: '4 years'
+  }
   courses: {
     devops: 'Qualizens - DevOps Certified Tester Course - Foundation level',
     bootcamp: 'Launch X by Innovaccion Virtual - Microsoft web developer bootcamp',
@@ -33,6 +38,7 @@ const Diego = {
   certifications: ['C# Basic Certificate - by HackerRank','Github para desarrolladores - by LinkedInLearning'],
 }
 ```
+- Feel free to contribute to my code! 
 
 
 
