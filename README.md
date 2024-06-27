@@ -1,43 +1,41 @@
 ### Diego Díaz Mendoza
 
-- Developer  
-- :computer: Trabajando home office para [Global Hitss]. (https://globalhitss.com/)
-- 🌱 C#, .NET, .NET Framework, SQL Server, GIT, DevOps, Javascript, Blazor, Angular. 
-- :zap: También desarrollador web freelance. 
-- 👯 Buscando colaborar en proyectos relacionados con .NET y desarrollo web o móvil.  
-- 📖 Aprendiendo DevOps y .NET MAUI.
-- :white_check_mark: Inglés avanzado / bilingüe C1
+- Software Developer  
+  - :computer: Software Developer en [AspenTech](https://www.aspentech.com/en/)
+- 🌱 .NET, .NET Framework, SQL Server, GIT, DevOps, Javascript.
+- :zap: 
+- 👯 Buscando aumentar mis conocimientos y experiencia en desarrollo de software.
+- 📖 Aprendiendo BDD y GraphQL.
+- :white_check_mark: Inglés avanzado 
 
 ```js
 const Diego = {
-  labels: ['software developer', 'musician', 'content creator'],
-  age : 27,
+  labels: ['programmer', 'musician', 'content creator'],
   nationality: 'mexican',
-  occupancy: '.NET Developer',
-  email: 'd_diazmendoza@hotmail.com',
+  occupancy: 'Software Developer',
+  email: 'diego.devs@outlook.com',
   location: {
     country: 'México',
     city: 'Ciudad de México'
   },
-  skills: ['Fast learner', 'Self-taught', 'Adaptable', 'Creative', 'DevOps Culture'],
+  skills: ['Fast learner', 'Self-taught', 'Adaptable', 'Creative'],
   code: ['C#', 'Javascript', 'SQL', 'HTML', 'CSS'],
-  frameworkTools: ['.NET','ASP.NET Core', 'Entity Framework Core', '.NET MAUI', 'Blazor', 'Razor Pages', 'WPF', 'MAUI'],
+  frameworkTools: ['.NET','ASP.NET Core', 'Entity Framework Core', 'Blazor', 'Razor Pages', 'WPF'],
   softwareTools: ['VSCode', 'Visual Studio 2022', 'Git', 'Jenkins', 'Docker', 'Azure', 'AWS'],
   areas: ['Web Development', 'API Development', 'Desktop Development'],
-  goals: ['full-stack Senior software developer'],
+  goals: ['To grow strenght in software development knowledge and experience'],
   interestedIn: ['Software Development', 'Artificial Intelligence', 'Technology', 'Music', 'History', 'Videogames'],
   experience: {
-    currentJob: '.NET Developer',
-    timeInJob: '2 years',
-    totalExperience: '4 years'
+    currentJob: 'Software Developer',
+    timeInJob: '2024',
+    totalExperience: 'about 4 years'
   },
   courses: {
     devops: 'Qualizens - DevOps Certified Tester Course - Foundation level',
     bootcamp: 'Launch X by Innovaccion Virtual - Microsoft web developer bootcamp',
-    linkedinLearning: ['ASP.NET core esencial','Github para programadores', '.NET6 esencial', 'LINQ con C#'],
-    udemy: ['Csharp Complete developer course', 'Unity 2D complete course'],
-  },
-  certifications: ['C# Basic Certificate - by HackerRank','Github para desarrolladores - by LinkedInLearning'],
+    linkedinLearning: [dotnet-related courses'],
+    udemy: ['csharp and unity related courses'],
+  }
 }
 ```
 - Feel free to contribute to my code! 
