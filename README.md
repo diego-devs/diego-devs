@@ -1,44 +1,69 @@
-### Diego Díaz Mendoza
+# 🎯 Diego Díaz Mendoza — Software Developer
 
-- Software Developer  
-  - :computer: Software Developer en [AspenTech](https://www.aspentech.com/en/)
-- 🌱 .NET, .NET Framework, SQL Server, GIT, DevOps, Javascript.
-- :zap: 
-- 👯 Buscando aumentar mis conocimientos y experiencia en desarrollo de software.
-- 📖 Aprendiendo BDD y GraphQL.
-- :white_check_mark: Inglés avanzado 
+Hi there! I'm **Diego Díaz Mendoza**, a software developer passionate about building robust, elegant, and high-impact solutions. I currently work at **[AspenTech](https://www.aspentech.com/en/)**, contributing to industrial software products using modern technologies like .NET 8, SpecFlow for BDD, and DevOps practices.
 
-```js
-const Diego = {
-  labels: ['programmer', 'musician', 'content creator'],
-  nationality: 'mexican',
-  occupancy: 'Software Developer',
-  email: 'diego.devs@outlook.com',
-  location: {
-    country: 'México',
-    city: 'Ciudad de México'
+---
+
+## 👨‍💻 About Me
+
+- 🧠 **Self-taught with a creative mindset**, backed by a background in music production.
+- 💼 **Software Developer at AspenTech** since 2024.
+- 📍 **Location:** Mexico City, Mexico.
+- 🌐 **Languages:** Spanish (Native), English (Advanced).
+- 📈 Over **4 years of experience** in full-stack web development and legacy system support.
+- 🔎 **Specialties:** .NET development, RESTful APIs, Blazor, SQL Server, GitHub Actions, and CI/CD best practices.
+- 🚀 Always exploring new tools like **GraphQL**, observability platforms, and LLM-powered reporting.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+```ts
+const diegoDev = {
+  core: {
+    languages: ['C#', 'JavaScript', 'SQL'],
+    frameworks: ['.NET 8', 'ASP.NET Core', 'Entity Framework Core', 'Blazor', 'Razor Pages', 'WPF'],
+    frontend: ['HTML5', 'CSS3', 'JavaScript'],
+    databases: ['SQL Server'],
+    devops: ['Git', 'GitHub Actions', 'Azure DevOps', 'TFS', 'CI/CD pipelines']
   },
-  skills: ['Fast learner', 'Self-taught', 'Adaptable', 'Creative'],
-  code: ['C#', 'Javascript', 'SQL', 'HTML', 'CSS'],
-  frameworkTools: ['.NET','ASP.NET Core', 'Entity Framework Core', 'Blazor', 'Razor Pages', 'WPF'],
-  softwareTools: ['VSCode', 'Visual Studio 2022', 'Git', 'Jenkins', 'Docker', 'Azure', 'AWS'],
-  areas: ['Web Development', 'API Development', 'Desktop Development'],
-  goals: ['To grow strenght in software development knowledge and experience'],
-  interestedIn: ['Software Development', 'Artificial Intelligence', 'Technology', 'Music', 'History', 'Videogames'],
-  experience: {
-    currentJob: 'Software Developer',
-    timeInJob: '2024',
-    totalExperience: 'about 4 years'
+  practices: {
+    methodologies: ['Agile', 'BDD (SpecFlow)', 'DevOps'],
+    tools: ['Visual Studio', 'VS Code', 'Jira', 'Report Builder']
   },
-  courses: {
-    devops: 'Qualizens - DevOps Certified Tester Course - Foundation level',
-    bootcamp: 'Launch X by Innovaccion Virtual - Microsoft web developer bootcamp',
-    linkedinLearning: [dotnet-related courses'],
-    udemy: ['csharp and unity related courses'],
-  }
-}
+  softSkills: [
+    'Self-Learner', 'Creative', 'Problem Solver',
+    'Versatile', 'Adaptable', 'Clear Communicator'
+  ],
+  interests: [
+    'Full-Stack Web Development', 'AI in Software Engineering',
+    'Developer Tools & Automation', 'Music', 'Gaming'
+  ],
+  goals: [
+    'Expand expertise in emerging technologies',
+    'Contribute to scalable and sustainable software',
+    'Leverage AI and automation in industrial software solutions'
+  ]
+};
 ```
-- Feel free to contribute to my code! 
 
+---
+
+## 🧭 Explore My Work
+
+🔗 Visit my personal site:  
+🌐 [`aiorosdev.com`](https://aiorosdev.com) — An interactive space to explore my portfolio, projects, and professional presence.
+
+📂 Featured Links:
+- 🔧 [GitHub Repositories](https://github.com/diego-devs)
+- 📝 [Dev Blog](https://diego-devs.github.io)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/diego-diaz-mendoza)
+- 📧 [Email Me](mailto:diego.devs@outlook.com)
+
+---
+
+> _Technology should be as beautiful as it is functional. My goal is to build solutions that reflect both. 🛰️  
+
+---
 
 
