@@ -60,10 +60,4 @@ const diegoDev = {
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/diego-diaz-mendoza)
 - 📧 [Email Me](mailto:diego.devs@outlook.com)
 
----
-
-> _Technology should be as beautiful as it is functional. My goal is to build solutions that reflect both. 🛰️  
-
----
-
 
