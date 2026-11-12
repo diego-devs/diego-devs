@@ -4,9 +4,6 @@
 
 I'm a C#/.NET developer who builds and modernizes enterprise software, and designs the **agentic AI workflows** that make teams faster at it.
 
-- At **[AspenTech / Emerson](https://www.aspentech.com/en/)** I develop **petroleum supply chain** products, built agentic development workflows for two of them, and train Dev & QE teams on AI tooling.
-- At **[DFIN](https://www.dfinsolutions.com/)** I'm modernizing a **Visual Basic** financial product to **C#/.NET**, using agentic workflows I design and refine for legacy modernization.
-
 ---
 
 ## 👨‍💻 About Me
@@ -21,23 +18,23 @@ const diego = {
   background: 'Self-taught developer with a music production & audio engineering background 🎧',
 
   experience: [
-    { company: 'Donnelley Financial Solutions (DFIN)', role: 'Software Developer Consultant', period: '2026 – Present',
+    { company: 'Donnelley Financial Solutions (DFIN)', role: 'Software Developer Consultant',
       focus: [
         'Modernizing a Visual Basic financial file-generation product to C#/.NET',
         'Designing & refining agentic workflows for legacy modernization, features and defect fixes',
       ] },
-    { company: 'AspenTech / Emerson', role: 'Software Developer', period: '2024 – Present',
+    { company: 'AspenTech / Emerson', role: 'Software Developer',
       focus: [
         'Developing .NET petroleum supply chain products: backend features, technical design, new functionality',
         'Built agentic development workflows for 2 products, tailored to product-specific engineering work',
         'Training the dev team and supporting AI adoption across Dev & QE teams',
       ] },
-    { company: 'Global Hitss (Client: MeridianLink)', role: 'Junior Software Developer', period: '2022 – 2024',
+    { company: 'Global Hitss (Client: MeridianLink)', role: 'Junior Software Developer',
       focus: [
         'Maintained & modernized .NET Framework / ASP.NET / SQL Server enterprise apps',
         'Backend features & APIs; TFS → Git migration on Azure DevOps',
       ] },
-    { company: 'TV Nichos / AyTv\'s', role: 'Junior Web Developer', period: '2018 – 2019',
+    { company: 'TV Nichos / AyTv\'s', role: 'Junior Web Developer',
       focus: ['CMS & static websites for multiple clients, front-end UX improvements'] },
   ],
 };
