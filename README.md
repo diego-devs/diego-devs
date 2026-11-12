@@ -2,7 +2,10 @@
 
 **C# / .NET · AI & Agentic Workflows** · Mexico City 🇲🇽 · Open to remote roles with US companies
 
-I build C#/.NET backend systems, APIs, and modernize enterprise applications — and I design the **agentic AI workflows** that help teams ship them. At **[AspenTech / Emerson](https://www.aspentech.com/en/)** I created internal agentic development workflows for two products and train developers and QE teams to adopt AI tooling.
+I'm a C#/.NET developer who builds and modernizes enterprise software, and designs the **agentic AI workflows** that make teams faster at it.
+
+- At **[AspenTech / Emerson](https://www.aspentech.com/en/)** I develop **petroleum supply chain** products, built agentic development workflows for two of them, and train Dev & QE teams on AI tooling.
+- At **[DFIN](https://www.dfinsolutions.com/)** I'm modernizing a **Visual Basic** financial product to **C#/.NET**, using agentic workflows I design and refine for legacy modernization.
 
 ---
 
@@ -19,13 +22,23 @@ const diego = {
 
   experience: [
     { company: 'Donnelley Financial Solutions (DFIN)', role: 'Software Developer Consultant', period: '2026 – Present',
-      focus: 'Modernizing a Visual Basic financial file-generation app to C#/.NET with AI-assisted workflows' },
+      focus: [
+        'Modernizing a Visual Basic financial file-generation product to C#/.NET',
+        'Designing & refining agentic workflows for legacy modernization, features and defect fixes',
+      ] },
     { company: 'AspenTech / Emerson', role: 'Software Developer', period: '2024 – Present',
-      focus: '.NET petroleum supply chain apps · agentic workflows for 2 products · AI adoption training' },
+      focus: [
+        'Developing .NET petroleum supply chain products: backend features, technical design, new functionality',
+        'Built agentic development workflows for 2 products, tailored to product-specific engineering work',
+        'Training the dev team and supporting AI adoption across Dev & QE teams',
+      ] },
     { company: 'Global Hitss (Client: MeridianLink)', role: 'Junior Software Developer', period: '2022 – 2024',
-      focus: '.NET Framework / ASP.NET / SQL Server modernization · TFS → Git migration on Azure DevOps' },
+      focus: [
+        'Maintained & modernized .NET Framework / ASP.NET / SQL Server enterprise apps',
+        'Backend features & APIs; TFS → Git migration on Azure DevOps',
+      ] },
     { company: 'TV Nichos / AyTv\'s', role: 'Junior Web Developer', period: '2018 – 2019',
-      focus: 'CMS & static websites, front-end UX improvements' },
+      focus: ['CMS & static websites for multiple clients, front-end UX improvements'] },
   ],
 };
 ```
@@ -54,9 +67,9 @@ const aiEngineering = {
   ],
 
   impact: [
-    'Agentic development workflows adopted across 2 enterprise products',
+    'Agentic development workflows adopted across 2 AspenTech products',
+    'Agentic workflows driving a VB → C#/.NET modernization at DFIN',
     'Trained the dev team and supported AI adoption across Dev & QE teams',
-    'AI-assisted legacy modernization (VB → C#/.NET)',
   ],
 };
 ```
@@ -74,27 +87,6 @@ const stack = {
   testing: ['xUnit', 'BDD (Reqnroll / SpecFlow)'],
   ai: ['GitHub Copilot', 'Coding agents', 'Agentic workflows', 'MCP', 'Prompt & skill design'],
 };
-```
-
----
-
-## 🚀 Featured Projects
-
-```ts
-const featuredProjects = [
-  { name: 'YuGiOh-Deck-Builder', stack: ['C#', '.NET'], url: 'https://github.com/diego-devs/YuGiOh-Deck-Builder',
-    about: 'Search every Yu-Gi-Oh! card and build your own deck.' },
-  { name: 'ManufacturingApp', stack: ['C#', '.NET'], url: 'https://github.com/diego-devs/ManufacturingApp',
-    about: 'Technical assessment for a .NET developer role.' },
-  { name: 'trojan-fc-manager', stack: ['React', 'TypeScript'], url: 'https://github.com/diego-devs/trojan-fc-manager',
-    about: '7-a-side football team manager: drag-and-drop tactics board, roster, season stats, EN/ES.' },
-  { name: 'estoicismo-diario', stack: ['HTML', 'JavaScript'], url: 'https://github.com/diego-devs/estoicismo-diario',
-    about: 'Daily Stoic reflections inspired by The Daily Stoic.' },
-  { name: 'mi-tono', stack: ['TypeScript'], url: 'https://github.com/diego-devs/mi-tono',
-    about: 'Practice songs in your key: pitch-shift MP3s by semitones without changing tempo. Mobile-first & offline.' },
-  { name: 'vinyl-collection', stack: ['TypeScript'], url: 'https://github.com/diego-devs/vinyl-collection',
-    about: 'Record and catalog a large family vinyl collection.' },
-];
 ```
 
 ---
