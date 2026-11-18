@@ -1,6 +1,6 @@
 # 🎯 Diego Díaz Mendoza — Software Developer
 
-**C# / .NET · AI & Agentic Workflows** · Mexico City 🇲🇽 · Open to remote roles with US companies
+**C# / .NET · AI & Agentic Workflows** · Mexico City 🇲🇽 · 
 
 I'm a C#/.NET developer who builds and modernizes enterprise software, and designs the **agentic AI workflows** that make teams faster at it.
 
