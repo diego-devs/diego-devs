@@ -1,14 +1,20 @@
 # Hi, I'm Diego Díaz Mendoza 👋
 
-**Software Developer · C# / .NET · Enterprise Software** · Mexico City 🇲🇽
+**Software Developer · C# / .NET · Enterprise Software · Agentic Development** · Mexico City 🇲🇽
 
-I'm a software developer with **5+ years** of experience building, maintaining and modernizing **enterprise products for large companies**, mostly on the Microsoft stack: **C#, .NET, .NET Framework, ASP.NET, SQL Server and Azure DevOps**. I've worked on software for the **energy, financial services and lending** industries, where the code is large, has been around for years, and has to be right because real businesses rely on it every day.
+I build and modernize **enterprise software for large companies** in energy, financial services and lending, mostly on the Microsoft stack: C#, .NET, .NET Framework, ASP.NET, SQL Server and Azure DevOps. I like large, long-lived codebases: understanding why they work the way they do, then moving them forward safely. I also design **agentic AI workflows** that help teams ship faster without lowering the bar.
 
-That's the kind of work I enjoy most: getting into a complex codebase, figuring out *why* it works the way it does, and moving it forward safely. I build backend features and APIs, write technical designs, track down hard defects, and modernize legacy code (for example, Visual Basic and .NET Framework) to current C#/.NET, without breaking what customers depend on.
+Self-taught, curious, and a former music producer & audio engineer 🎧. That's where I learned to care about the details. Open to remote, exciting projects.
 
-I also design **agentic development workflows** with GitHub Copilot, custom agents and MCP integrations. They take a work item from intake through investigation, implementation, build and test to a retrospective, with a human reviewing every change before it ships. I've rolled these workflows out on real products and helped Dev and QE teams adopt them. For me, AI is an engineering tool: it gives the team more leverage, but it doesn't replace good judgment or good engineering.
+---
 
-Before software, I produced music and worked as an audio engineer 🎧. That's where I learned to sweat the details, iterate a lot, and care about how the finished product feels to the person using it. I'm self-taught, curious, and always learning.
+## 💡 What I Bring
+
+- **Enterprise .NET development:** backend features, APIs and technical design in large production codebases
+- **Legacy modernization:** moving Visual Basic and .NET Framework code to modern C# / .NET while preserving business behavior
+- **Hard problems:** tracing complex defects across big systems and fixing their root cause
+- **Agentic development:** Copilot, custom agents and MCP workflows that go from work item to tested change, with a human in the loop
+- **Team enablement:** training developers and helping Dev & QE teams adopt AI tools
 
 ---
 
@@ -17,66 +23,67 @@ Before software, I produced music and worked as an audio engineer 🎧. That's w
 ```ts
 const diego = {
   role: 'Software Developer',
-  specialties: ['Enterprise C# / .NET', 'Legacy modernization', 'Agentic development workflows'],
   location: 'Mexico City, Mexico',
-  openTo: 'Remote roles with US companies',
   yearsOfExperience: '5+',
-  languages: { spanish: 'Native', english: 'B2' },
-  background: 'Self-taught developer with a music production & audio engineering background 🎧',
+  languages: { spanish: 'Native', english: 'Professional (B2)' },
 
   experience: [
-    { company: 'Donnelley Financial Solutions (DFIN)', role: 'Software Developer Consultant',
-      domain: 'Financial services',
+    { company: 'Donnelley Financial Solutions (DFIN)',
+      role: 'Software Developer Consultant',
       focus: [
-        'Modernizing a legacy Visual Basic financial file-generation product to C# / .NET',
-        'Preserving existing business behavior while moving the codebase to modern .NET',
-        'Designing & refining agentic workflows for modernization, new features and defect fixes',
+        'Modernizing a legacy Visual Basic financial product to C# / .NET',
+        'Designing agentic workflows for modernization, features & defect fixes',
+        'Contributing to our team’s fully automated (level 5) agentic pipeline',
       ] },
-    { company: 'AspenTech (now part of Emerson)', role: 'Software Developer',
-      team: 'R&D · Petroleum Supply Chain',
-      domain: 'Energy / Oil & Gas',
+    { company: 'AspenTech (now part of Emerson)',
+      role: 'Software Developer · R&D, Petroleum Supply Chain',
       focus: [
-        'Developing enterprise C# / .NET products used to plan and schedule petroleum supply chain operations',
-        'Backend features, technical design and defect fixes in a large, long-lived codebase',
-        'BDD test automation with Reqnroll + xUnit, delivered through Azure DevOps',
-        'Built agentic development workflows for 2 products, tailored to each product’s engineering work',
-        'Training the dev team and supporting AI adoption across Dev & QE teams',
+        'Enterprise .NET products for petroleum supply chain planning & scheduling',
+        'Backend features, technical design & defect fixes in a long-lived codebase',
+        'BDD test automation with Reqnroll + xUnit',
+        'Built agentic development workflows for 2 products',
+        'Trained the dev team & supported AI adoption across Dev and QE',
       ] },
-    { company: 'Global Hitss (Client: MeridianLink)', role: 'Junior Software Developer',
-      domain: 'Lending & financial software',
+    { company: 'Global Hitss (Client: MeridianLink)',
+      role: 'Junior Software Developer',
       focus: [
-        'Maintained & modernized .NET Framework / ASP.NET / SQL Server enterprise applications',
-        'Built backend features & APIs; migrated source control from TFS to Git on Azure DevOps',
+        'Maintained & modernized .NET Framework / ASP.NET / SQL Server apps',
+        'Backend features & APIs; TFS → Git migration on Azure DevOps',
       ] },
-    { company: 'TV Nichos / AyTv\'s', role: 'Junior Web Developer',
-      domain: 'Media',
-      focus: ['Built CMS-based & static websites for multiple clients; improved front-end UX'] },
+    { company: 'TV Nichos / AyTv\'s',
+      role: 'Junior Web Developer',
+      focus: ['CMS & static websites for multiple clients; front-end UX'] },
   ],
 };
 ```
 
 ---
 
-## 🤖 Agentic Development Workflows
+## 🤖 From Work Item to Pull Request
+
+At DFIN, I'm part of the team behind a **fully automated (level 5) agentic pipeline**. Tag an Azure DevOps bug or user story as `agent-ready`, and self-hosted GitHub Actions runners take it from there:
+
+```text
+🏷️ agent-ready      tag added in Azure DevOps
+   ↓
+📥 intake           pull the work item + attachments
+🔍 fix              investigate, plan, code, build, run tests
+🧠 retro            record what happened into memory
+✅ conclude         ADO comment, story points, open PR, trigger deploy
+```
+
+I also built a **local, human-driven version** of this workflow with GitHub Copilot CLI, custom agents and skills. I use it daily:
 
 ```ts
-const agenticWorkflows = {
-  tools: ['GitHub Copilot CLI', 'Copilot coding agents', 'MCP servers (Azure DevOps, GitHub)', 'Custom skills & slash commands'],
-  customAgents: ['planner', 'investigator', 'fixer / executor', 'tester', 'retrospector'],
-
-  // End-to-end workflow I built and use daily
-  workflow: [
-    '/ado-intake   → pull the work item + attachments from Azure DevOps',
-    '/investigate  → validate it, trace the real code, write an implementation plan',
-    '/execute      → implement the plan, build, run tests, report the diff',
-    '/retro        → record lessons learned into a team knowledge base',
+const localWorkflow = {
+  tools: ['GitHub Copilot CLI', 'Custom agents', 'Skills & slash commands', 'MCP (Azure DevOps, GitHub)'],
+  steps: [
+    '/ado-intake  → pull the work item + attachments',
+    '/investigate → validate it, trace the real code, write a plan',
+    '/execute     → implement, build, run tests, report the diff',
+    '/retro       → record lessons learned in a knowledge base',
   ],
-
-  principles: [
-    'Human-in-the-loop: every change is reviewed before it ships',
-    'Agents get product-specific context & knowledge bases, not generic prompts',
-    'Every agent run is verified with a real build + tests',
-  ],
+  principles: ['Human review before anything ships', 'Product-specific context', 'Real build + tests on every run'],
 };
 ```
 
@@ -84,22 +91,55 @@ const agenticWorkflows = {
 
 ## 🛠️ Tech Stack
 
-```ts
-const stack = {
-  backend: ['C#', '.NET', '.NET Framework', 'ASP.NET / ASP.NET Core', 'REST APIs', 'GraphQL', 'Entity Framework', 'LINQ'],
-  legacy: ['Visual Basic', '.NET Framework → modern .NET migration'],
-  data: ['SQL Server', 'T-SQL'],
-  web: ['TypeScript', 'JavaScript', 'React', 'Node.js', 'HTML', 'CSS'],
-  devops: ['Git', 'Azure DevOps', 'TFS', 'GitHub Actions', 'CI/CD'],
-  testing: ['xUnit', 'BDD (Reqnroll / SpecFlow)'],
-  ai: ['GitHub Copilot', 'Coding agents', 'Agentic workflows', 'MCP', 'Prompt & skill design'],
-};
-```
+**Backend**<br>
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual_Basic-004E8C?style=flat-square&logo=dotnet&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-555555?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+**Data**<br>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square)
+
+**Web**<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Azure & DevOps**<br>
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=flat-square)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Testing**<br>
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Reqnroll](https://img.shields.io/badge/BDD-Reqnroll_/_SpecFlow-23A55A?style=flat-square)
+
+**AI**<br>
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-6E40C9?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-6E40C9?style=flat-square)
+
+---
+
+## ✍️ Writing
+
+I write (in Spanish 🇲🇽) about .NET, software architecture and AI-assisted development on my blog, **[diego-devs.github.io](https://diego-devs.github.io)**. A few recent posts:
+
+- [Los 5 niveles de automatización en desarrollo de software](https://diego-devs.github.io/posts/Los-5-niveles-de-automatizacion-en-desarrollo-de-software/)
+- [Los desarrolladores que van a sobrevivir a la IA no son los que programan más rápido](https://diego-devs.github.io/posts/Los-desarrolladores-que-van-a-sobrevivir-a-la-IA-no-son-los-que-programan-mas-rapido/)
+- [Lo básico que todo desarrollador .NET mid-level debería dominar antes de una entrevista](https://diego-devs.github.io/posts/Lo-basico-que-todo-desarrollador-NET-mid-level-deberia-dominar-antes-de-una-entrevista/)
 
 ---
 
 ## 📫 Contact
 
-- 📝 Blog / site: [diego-devs.github.io](https://diego-devs.github.io)
-- 💼 LinkedIn: [diego-diaz-mendoza](https://www.linkedin.com/in/diego-diaz-mendoza)
-- 📧 Email: [d_diazmendoza@hotmail.com](mailto:d_diazmendoza@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-diego--diaz--mendoza-0A66C2?style=flat-square)](https://www.linkedin.com/in/diego-diaz-mendoza)
+[![Email](https://img.shields.io/badge/Email-d__diazmendoza@hotmail.com-0078D4?style=flat-square)](mailto:d_diazmendoza@hotmail.com)
+[![Blog](https://img.shields.io/badge/Blog-diego--devs.github.io-333333?style=flat-square&logo=jekyll&logoColor=white)](https://diego-devs.github.io)
