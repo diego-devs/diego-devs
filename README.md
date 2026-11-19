@@ -1,8 +1,14 @@
-# 🎯 Diego Díaz Mendoza — Software Developer
+# Hi, I'm Diego Díaz Mendoza 👋
 
-**C# / .NET · AI & Agentic Workflows** · Mexico City 🇲🇽 · 
+**Software Developer · C# / .NET · Enterprise Software** · Mexico City 🇲🇽
 
-I'm a C#/.NET developer who builds and modernizes enterprise software, and designs the **agentic AI workflows** that make teams faster at it.
+I'm a software developer with **5+ years** of experience building, maintaining and modernizing **enterprise products for large companies**, mostly on the Microsoft stack: **C#, .NET, .NET Framework, ASP.NET, SQL Server and Azure DevOps**. I've worked on software for the **energy, financial services and lending** industries, where the code is large, has been around for years, and has to be right because real businesses rely on it every day.
+
+That's the kind of work I enjoy most: getting into a complex codebase, figuring out *why* it works the way it does, and moving it forward safely. I build backend features and APIs, write technical designs, track down hard defects, and modernize legacy code (for example, Visual Basic and .NET Framework) to current C#/.NET, without breaking what customers depend on.
+
+I also design **agentic development workflows** with GitHub Copilot, custom agents and MCP integrations. They take a work item from intake through investigation, implementation, build and test to a retrospective, with a human reviewing every change before it ships. I've rolled these workflows out on real products and helped Dev and QE teams adopt them. For me, AI is an engineering tool: it gives the team more leverage, but it doesn't replace good judgment or good engineering.
+
+Before software, I produced music and worked as an audio engineer 🎧. That's where I learned to sweat the details, iterate a lot, and care about how the finished product feels to the person using it. I'm self-taught, curious, and always learning.
 
 ---
 
@@ -10,7 +16,8 @@ I'm a C#/.NET developer who builds and modernizes enterprise software, and desig
 
 ```ts
 const diego = {
-  role: 'Software Developer | C# / .NET | AI & Agentic Workflows',
+  role: 'Software Developer',
+  specialties: ['Enterprise C# / .NET', 'Legacy modernization', 'Agentic development workflows'],
   location: 'Mexico City, Mexico',
   openTo: 'Remote roles with US companies',
   yearsOfExperience: '5+',
@@ -19,33 +26,41 @@ const diego = {
 
   experience: [
     { company: 'Donnelley Financial Solutions (DFIN)', role: 'Software Developer Consultant',
+      domain: 'Financial services',
       focus: [
-        'Modernizing a Visual Basic financial file-generation product to C#/.NET',
-        'Designing & refining agentic workflows for legacy modernization, features and defect fixes',
+        'Modernizing a legacy Visual Basic financial file-generation product to C# / .NET',
+        'Preserving existing business behavior while moving the codebase to modern .NET',
+        'Designing & refining agentic workflows for modernization, new features and defect fixes',
       ] },
-    { company: 'AspenTech / Emerson', role: 'Software Developer',
+    { company: 'AspenTech (now part of Emerson)', role: 'Software Developer',
+      team: 'R&D · Petroleum Supply Chain',
+      domain: 'Energy / Oil & Gas',
       focus: [
-        'Developing .NET petroleum supply chain products: backend features, technical design, new functionality',
-        'Built agentic development workflows for 2 products, tailored to product-specific engineering work',
+        'Developing enterprise C# / .NET products used to plan and schedule petroleum supply chain operations',
+        'Backend features, technical design and defect fixes in a large, long-lived codebase',
+        'BDD test automation with Reqnroll + xUnit, delivered through Azure DevOps',
+        'Built agentic development workflows for 2 products, tailored to each product’s engineering work',
         'Training the dev team and supporting AI adoption across Dev & QE teams',
       ] },
     { company: 'Global Hitss (Client: MeridianLink)', role: 'Junior Software Developer',
+      domain: 'Lending & financial software',
       focus: [
-        'Maintained & modernized .NET Framework / ASP.NET / SQL Server enterprise apps',
-        'Backend features & APIs; TFS → Git migration on Azure DevOps',
+        'Maintained & modernized .NET Framework / ASP.NET / SQL Server enterprise applications',
+        'Built backend features & APIs; migrated source control from TFS to Git on Azure DevOps',
       ] },
     { company: 'TV Nichos / AyTv\'s', role: 'Junior Web Developer',
-      focus: ['CMS & static websites for multiple clients, front-end UX improvements'] },
+      domain: 'Media',
+      focus: ['Built CMS-based & static websites for multiple clients; improved front-end UX'] },
   ],
 };
 ```
 
 ---
 
-## 🤖 AI Engineering & Agentic Workflows
+## 🤖 Agentic Development Workflows
 
 ```ts
-const aiEngineering = {
+const agenticWorkflows = {
   tools: ['GitHub Copilot CLI', 'Copilot coding agents', 'MCP servers (Azure DevOps, GitHub)', 'Custom skills & slash commands'],
   customAgents: ['planner', 'investigator', 'fixer / executor', 'tester', 'retrospector'],
 
@@ -57,16 +72,10 @@ const aiEngineering = {
     '/retro        → record lessons learned into a team knowledge base',
   ],
 
-  practices: [
-    'Human-in-the-loop review before any change ships',
-    'Product-specific context & knowledge bases for agents',
-    'Build + test verification as part of every agent run',
-  ],
-
-  impact: [
-    'Agentic development workflows adopted across 2 AspenTech products',
-    'Agentic workflows driving a VB → C#/.NET modernization at DFIN',
-    'Trained the dev team and supported AI adoption across Dev & QE teams',
+  principles: [
+    'Human-in-the-loop: every change is reviewed before it ships',
+    'Agents get product-specific context & knowledge bases, not generic prompts',
+    'Every agent run is verified with a real build + tests',
   ],
 };
 ```
@@ -77,10 +86,11 @@ const aiEngineering = {
 
 ```ts
 const stack = {
-  backend: ['C#', '.NET', 'ASP.NET Core', 'REST APIs', 'GraphQL', 'Entity Framework Core'],
-  data: ['SQL Server', 'SQL'],
+  backend: ['C#', '.NET', '.NET Framework', 'ASP.NET / ASP.NET Core', 'REST APIs', 'GraphQL', 'Entity Framework', 'LINQ'],
+  legacy: ['Visual Basic', '.NET Framework → modern .NET migration'],
+  data: ['SQL Server', 'T-SQL'],
   web: ['TypeScript', 'JavaScript', 'React', 'Node.js', 'HTML', 'CSS'],
-  devops: ['Git', 'Azure DevOps', 'GitHub Actions', 'CI/CD', 'TFS → Git migration'],
+  devops: ['Git', 'Azure DevOps', 'TFS', 'GitHub Actions', 'CI/CD'],
   testing: ['xUnit', 'BDD (Reqnroll / SpecFlow)'],
   ai: ['GitHub Copilot', 'Coding agents', 'Agentic workflows', 'MCP', 'Prompt & skill design'],
 };
