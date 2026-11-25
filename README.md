@@ -2,7 +2,7 @@
 
 **Software Developer · C# / .NET · Enterprise Software · Agentic Development** · Mexico City 🇲🇽
 
-I build and modernize **enterprise software for large companies** in energy, financial services and lending, mostly on the Microsoft stack: C#, .NET, .NET Framework, ASP.NET, SQL Server and Azure DevOps. I like large, long-lived codebases: understanding why they work the way they do, then moving them forward safely. I also design **agentic AI workflows** that help teams ship faster without lowering the bar.
+I build and modernize **enterprise software for large companies** with experience in energy, financial services and lending, mostly on the Microsoft stack: C#, .NET, .NET Framework, ASP.NET, SQL Server and Azure DevOps. I like large, long-lived codebases: understanding why they work the way they do, then moving them forward safely. I also design **agentic AI workflows** that help teams ship faster without lowering the bar.
 
 Self-taught, curious, and a former music producer & audio engineer 🎧. That's where I learned to care about the details. Open to remote, exciting projects.
 
@@ -11,7 +11,7 @@ Self-taught, curious, and a former music producer & audio engineer 🎧. That's 
 ## 💡 What I Bring
 
 - **Enterprise .NET development:** backend features, APIs and technical design in large production codebases
-- **Legacy modernization:** moving Visual Basic and .NET Framework code to modern C# / .NET while preserving business behavior
+- **Legacy modernization:** experience in moving Visual Basic and .NET Framework code to modern C# / .NET powered by AI workflows. 
 - **Hard problems:** tracing complex defects across big systems and fixing their root cause
 - **Agentic development:** Copilot, custom agents and MCP workflows that go from work item to tested change, with a human in the loop
 - **Team enablement:** training developers and helping Dev & QE teams adopt AI tools
