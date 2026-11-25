@@ -25,15 +25,15 @@ const diego = {
   role: 'Software Developer',
   location: 'Mexico City, Mexico',
   yearsOfExperience: '5+',
-  languages: { spanish: 'Native', english: 'Professional (B2)' },
+  languages: { spanish: 'Native', english: 'Professional (B2-C1)' },
 
   experience: [
     { company: 'Donnelley Financial Solutions (DFIN)',
-      role: 'Software Developer Consultant',
+      role: 'Contract Software Developer',
       focus: [
         'Modernizing a legacy Visual Basic financial product to C# / .NET',
         'Designing agentic workflows for modernization, features & defect fixes',
-        'Contributing to our team’s fully automated (level 5) agentic pipeline',
+        'Contributing to our team’s fully automated agentic pipeline',
       ] },
     { company: 'AspenTech (now part of Emerson)',
       role: 'Software Developer · R&D, Petroleum Supply Chain',
@@ -41,7 +41,8 @@ const diego = {
         'Enterprise .NET products for petroleum supply chain planning & scheduling',
         'Backend features, technical design & defect fixes in a long-lived codebase',
         'BDD test automation with Reqnroll + xUnit',
-        'Built agentic development workflows for 2 products',
+        'Typescript and UI features, implementation',
+        'Built agentic development workflows for our teams',
         'Trained the dev team & supported AI adoption across Dev and QE',
       ] },
     { company: 'Global Hitss (Client: MeridianLink)',
@@ -61,8 +62,6 @@ const diego = {
 
 ## 🤖 From Work Item to Pull Request
 
-At DFIN, I'm part of the team behind a **fully automated (level 5) agentic pipeline**. Tag an Azure DevOps bug or user story as `agent-ready`, and self-hosted GitHub Actions runners take it from there:
-
 ```text
 🏷️ agent-ready      tag added in Azure DevOps
    ↓
@@ -70,21 +69,6 @@ At DFIN, I'm part of the team behind a **fully automated (level 5) agentic pipel
 🔍 fix              investigate, plan, code, build, run tests
 🧠 retro            record what happened into memory
 ✅ conclude         ADO comment, story points, open PR, trigger deploy
-```
-
-I also built a **local, human-driven version** of this workflow with GitHub Copilot CLI, custom agents and skills. I use it daily:
-
-```ts
-const localWorkflow = {
-  tools: ['GitHub Copilot CLI', 'Custom agents', 'Skills & slash commands', 'MCP (Azure DevOps, GitHub)'],
-  steps: [
-    '/ado-intake  → pull the work item + attachments',
-    '/investigate → validate it, trace the real code, write a plan',
-    '/execute     → implement, build, run tests, report the diff',
-    '/retro       → record lessons learned in a knowledge base',
-  ],
-  principles: ['Human review before anything ships', 'Product-specific context', 'Real build + tests on every run'],
-};
 ```
 
 ---
